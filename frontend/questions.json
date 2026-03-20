@@ -1,0 +1,139 @@
+[
+  {
+    "tag":"Social",
+    "scene":"You spot your crush sitting alone at the college cafeteria. Your friends are nowhere around. You have your lunch tray in hand.",
+    "q":"What do you do?",
+    "opts":["Walk over and casually ask if you can sit — no big deal","Do a full lap around the cafeteria pretending to look for friends, hoping they notice you","Pull out your phone and text a friend about it instead of doing anything","Go sit at another table and stare at them from a distance like a documentary filmmaker"],
+    "traits":[2,0,1,0]
+  },
+  {
+    "tag":"Personality",
+    "scene":"You are stuck in the lift with your crush.",
+    "q":"what will you do?",
+    "opts":["Start watching reels on your phone even if there is not network","Start interacting with him","Call your friends for help","Panick and press the emergency button repeatedly"],
+    "traits":[3,1,0,2]
+  },
+  {
+    "tag":"Conflict",
+    "scene":"Your date texts you 30 minutes before meeting saying they might be 20 mins late because of traffic.",
+    "q":"How do you respond?",
+    "opts":["Reply 'No worries, take your time!' and mean it","Reply 'No worries!' but secretly sulk the whole evening","Cancel on them immediately — punctuality is everything","Use the 20 mins to rehearse your opening conversation topics"],
+    "traits":[3,1,0,2]
+  },
+  {
+    "tag":"Weekend",
+    "scene":"It's Friday night. Your friends want to go to a crowded house party. Your current mood is comfy pajamas and a movie.",
+    "q":"What actually happens?",
+    "opts":["You go to the party and end up having the best night","You go but spend half the time in a quiet corner on your phone","You fake a headache and stay home guilt-free","You convince one friend to ditch the party and watch movies with you"],
+    "traits":[2,1,0,3]
+  },
+  {
+    "tag":"Romance",
+    "scene":"You've been texting someone you like for 2 weeks. The convo is great but they haven't asked to meet yet.",
+    "q":"What's your move?",
+    "opts":["You casually suggest hanging out — simple and direct","You drop hints hoping they'll get the message","You wait indefinitely and over-analyze every message","You convince yourself they're not interested and start pulling back"],
+    "traits":[3,1,0,0]
+  },
+  {
+    "tag":"Lifestyle",
+    "scene":"It's 11pm on a Sunday. You have a 9am class tomorrow and your group chat just invited you for late-night street food.",
+    "q":"What do you do?",
+    "opts":["Go — you can nap between classes","Go, feel guilty, eat fast, rush back","Say no and actually sleep at a reasonable hour","Say yes, then cancel 15 mins before because you chickened out"],
+    "traits":[2,1,3,0]
+  },
+  {
+    "tag":"Personality",
+    "scene":"A new person joins your friend circle. They're funny, confident and immediately became everyone's favourite.",
+    "q":"How does that make you feel?",
+    "opts":["Genuinely excited — new energy is fun","A little threatened but you get over it","Uncomfortable until you've figured them out","You befriend them immediately — you're already planning a one-on-one hangout"],
+    "traits":[3,1,0,2]
+  },
+  {
+    "tag":"Values",
+    "scene":"Your partner tells you they forgot your one-month anniversary. They feel terrible about it.",
+    "q":"How do you react?",
+    "opts":["Laugh it off — it really doesn't bother you","Tell them you're fine but you low-key needed that","Calmly say it matters to you and you'd like them to remember next time","Give them the silent treatment for two days"],
+    "traits":[3,2,2,0]
+  },
+  {
+    "tag":"Ambition",
+    "scene":"Your semester is packed — exams, assignments and internship deadlines. Someone you like asks if you want to grab coffee this week.",
+    "q":"What do you say?",
+    "opts":["Yes — you'll make time, you're good at managing both","Maybe — you'll check your schedule and confirm","Not now but suggest a specific date two weeks out","No, and feel genuinely sad about it for three days"],
+    "traits":[3,2,2,0]
+  },
+  {
+    "tag":"Humour",
+    "scene":"You trip and fall in front of your crush in the middle of the college corridor. People saw it.",
+    "q":"What happens next?",
+    "opts":["Stand up, take a bow, and own the moment completely","Laugh it off quickly and walk away fast","Die a little inside but pretend you're fine","Bring it up yourself later as a funny story"],
+    "traits":[3,2,0,3]
+  },
+  {
+    "tag":"Social",
+    "scene":"You're introduced to your date's close friends for the first time. The group has a lot of inside jokes you don't get.",
+    "q":"How do you handle it?",
+    "opts":["Ask about the jokes — you're genuinely curious","Smile and laugh along even when you're lost","Mostly listen and contribute when you have something good to say","Make a small joke about being the outsider to break the ice"],
+    "traits":[2,1,2,3]
+  },
+  {
+    "tag": "Music",
+    "scene": "Your friend hands you the aux at a road trip. Everyone is half-asleep. You have full control.",
+    "q": "What do you play?",
+    "opts": [
+      "A perfectly curated playlist you made at 1am last week",
+      "Whatever's trending on Spotify right now — vibes only",
+      "A deep cut indie/underground track and hope someone asks about it",
+      "You panic and put it on shuffle — too much responsibility"
+    ],
+    "trait": [3, 1, 2, 0]
+  },
+  {
+    "tag": "Sports",
+    "scene": "It's IPL season!",
+    "q": "Whom do you support?",
+    "opts": [
+      {
+      "name": "RCB",
+      "logo": "https://images.seeklogo.com/logo-png/34/1/royal-challengers-bengaluru-logo-png_seeklogo-349568.png"
+    },
+    {
+      "name": "CSK",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8MRZn2qFzNBkqxlJGRPG05V2ms-lMyMdgw&s"
+    },
+    {
+      "name": "MI",
+      "logo": "https://static.vecteezy.com/system/resources/previews/059/494/375/non_2x/mumbai-indians-original-ipl-team-official-logo-premium-design-for-digital-download-free-vector.jpg"
+    },
+    {
+      "name": "GT",
+      "logo": "https://www.sportspro.com/wp-content/uploads/2022/02/Titans-H.jpg"
+    }
+    ],
+    "trait": [3, 1, 2, 0]
+  },
+  {
+    "tag": "Sports",
+    "scene": "You know them very well!",
+    "q": "Who is your crush? (No Offence)",
+    "opts": [
+      {
+      "name": "Virat",
+      "logo": "https://static.iwmbuzz.com/wp-content/uploads/2020/02/virat-kohlis-funny-dance-moves-920x518.jpg"
+    },
+    {
+      "name": "Dhoni",
+      "logo": "https://im.rediff.com/cricket/2013/apr/19msd.jpg"
+    },
+    {
+      "name": "Rohit",
+      "logo": "https://images.news18.com/ibnlive/uploads/2023/07/untitled-2023-07-24t123210.169.jpg"
+    },
+    {
+      "name": "Hardik",
+      "logo": "https://static.iwmbuzz.com/wp-content/uploads/2020/04/copy-these-amazing-hairstyles-from-hardik-pandya-2.jpg"
+    }
+    ],
+    "trait": [3, 1, 2, 0]
+  }  
+]
